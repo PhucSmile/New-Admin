@@ -1,0 +1,9 @@
+{
+  "views": {
+    "auth": {
+      "login": {
+        "welcomeTitle": "Welcome"
+      }
+    }
+  }
+}
